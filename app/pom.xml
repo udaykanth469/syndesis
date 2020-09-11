@@ -138,7 +138,7 @@
     <assertj-core.version>3.16.1</assertj-core.version>
 
     <jakarta-mail.version>1.6.5</jakarta-mail.version>
-    <json-schema-core.version>1.2.8</json-schema-core.version>
+    <json-schema-core.version>1.2.14</json-schema-core.version>
     <json-schema-validator.version>2.2.10</json-schema-validator.version>
     <junit.version>4.13</junit.version>
     <junit5.version>5.6.2</junit5.version>
